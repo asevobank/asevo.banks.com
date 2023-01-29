@@ -1,0 +1,74 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #141b3d;
+   
+}
+
+
+.header {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(119, 119, 151);
+    background-color: 258EC6;
+    font: bold italic;
+    border-radius: 10px 10px 5px 5px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ;
+
+}
+
+.tabul {
+   
+    height: 60px;
+}
+
+.IN {
+    
+    text-align: left;
+    font-size: 20px;
+}
+
+.CART {
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+    width: 50%;
+    border-radius: 10px 10px 5px 5px;
+
+    
+
+}
+.Check{
+    font-size: 25px;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    cursor: pointer;
+    float: right;
+    border-radius: 10px 10px 5px 5px;
+
+}
+
+.Enter{
+    background-color: red;
+}
+
+.M {
+    height: 35px;
+}
+
+.Footer{
+    font-size: 28px;
+    color: black;
+    text-align: center;
+
+
+}
+.main{
+	width: 20%;
+	height: 20px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+

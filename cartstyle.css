@@ -1,0 +1,135 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background:#141b3d;
+
+
+}
+
+
+
+
+
+
+.header{
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background: #3752dd;
+	
+}
+
+
+
+
+.button{
+	display: block;
+	width: 650px;
+    height: 700px;
+	padding: 10px 15px;
+	margin: 0 auto  10px auto;
+	background-color:rgba(38, 47, 151, 0.877);
+	border: 1px  rgba(27,44,236,1.00);
+	border-radius: 3px;
+	color: black;
+	font: bold italic;
+	font-size: 18px;
+	transition-duration: 1s;
+	border-radius: 10px 10px 8px 8px;
+	
+}
+
+.img{
+    padding: 0%;
+	margin: 0%;
+	text-align: center;
+}
+
+.yourcart{
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 40px;
+	background: white;
+	text-align: center;
+}
+
+.first{
+	float: right;
+	padding: 12px;
+
+}
+
+.cart2{
+	float: left;
+	padding: 14px;
+	
+}
+
+.connect{
+	text-align: center;
+	width: 90px;
+	height: 90px;
+}
+
+.input{
+	text-align: left;
+	float: left;
+	width: 80px;
+	height: 20px;
+	padding-left: 60px;
+	border-radius: 5px 5px 5px 5px;
+	
+	
+}
+
+.pre{
+	background: wheat;
+	
+	border-radius: 10px 10px 10px 10px;
+	text-align: left;
+	padding: 5px;
+
+}
+
+
+.write{
+	float: left;
+	background-color: #a14c06;
+	border-radius: 5px 5px 5px 5px;
+	height: 30px;
+}
+
+.send{
+	text-align: center;
+	float: right;
+	width: 60px;
+	height: 20px;
+	padding-left: 60px;
+	border-radius: 5px 5px 5px 5px;
+	
+}
+.many{
+	
+	float: right;
+	background-color: #dd6b0ddc;
+	border-radius: 5px 5px 5px 5px;
+	height: 30px;
+}
+
+.ok{
+	width: 80px;
+	height: 80px;
+	border-radius: 155px 155px 153px 155px;
+	
+	padding: 15px;
+}
+
+.no{
+	width: 80px;
+	height: 80px;
+	border-radius: 170px 170px 170px 170px;
+	cursor: pointer;
+	
+	padding: 15px;
+
+}
+
